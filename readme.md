@@ -1,2 +1,2 @@
 
-This landing page based on psd template on (behance)[https://www.behance.net/gallery/35699887/Clemo-Free-PSD-Template]. Developing using (bootstrap css)[http://getbootstrap.com/], (FontAwesome)[http://fontawesome.io/], and (Hover)[http://ianlunn.github.io/Hover/].
+This landing page based on psd template on [behance](https://www.behance.net/gallery/35699887/Clemo-Free-PSD-Template). Developing using [bootstrap css](http://getbootstrap.com/), [FontAwesome](http://fontawesome.io/), and [Hover css](http://ianlunn.github.io/Hover/).
